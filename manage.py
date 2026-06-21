@@ -7,7 +7,6 @@ import warnings
 warnings.filterwarnings("ignore", module="extractcode")
 warnings.filterwarnings("ignore", module="typecode")
 
-
 if __name__ == "__main__":
     from scancodeio import command_line
 
